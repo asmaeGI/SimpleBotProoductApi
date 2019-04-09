@@ -1,0 +1,15 @@
+D:\projet\BotWebApi\BotWebApi\bin\Release\netcoreapp2.1\BotWebApi.deps.json
+D:\projet\BotWebApi\BotWebApi\bin\Release\netcoreapp2.1\BotWebApi.runtimeconfig.json
+D:\projet\BotWebApi\BotWebApi\bin\Release\netcoreapp2.1\BotWebApi.runtimeconfig.dev.json
+D:\projet\BotWebApi\BotWebApi\bin\Release\netcoreapp2.1\BotWebApi.dll
+D:\projet\BotWebApi\BotWebApi\bin\Release\netcoreapp2.1\BotWebApi.pdb
+D:\projet\BotWebApi\BotWebApi\obj\Release\netcoreapp2.1\BotWebApi.csprojAssemblyReference.cache
+D:\projet\BotWebApi\BotWebApi\obj\Release\netcoreapp2.1\BotWebApi.csproj.CoreCompileInputs.cache
+D:\projet\BotWebApi\BotWebApi\obj\Release\netcoreapp2.1\BotWebApi.RazorAssemblyInfo.cache
+D:\projet\BotWebApi\BotWebApi\obj\Release\netcoreapp2.1\BotWebApi.RazorAssemblyInfo.cs
+D:\projet\BotWebApi\BotWebApi\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\projet\BotWebApi\BotWebApi\obj\Release\netcoreapp2.1\BotWebApi.AssemblyInfoInputs.cache
+D:\projet\BotWebApi\BotWebApi\obj\Release\netcoreapp2.1\BotWebApi.AssemblyInfo.cs
+D:\projet\BotWebApi\BotWebApi\obj\Release\netcoreapp2.1\BotWebApi.RazorTargetAssemblyInfo.cache
+D:\projet\BotWebApi\BotWebApi\obj\Release\netcoreapp2.1\BotWebApi.dll
+D:\projet\BotWebApi\BotWebApi\obj\Release\netcoreapp2.1\BotWebApi.pdb
